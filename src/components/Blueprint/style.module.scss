@@ -1,0 +1,76 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.controlContainer {
+  position: relative;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  color: #444444;
+
+  .modeGroup {
+    flex: 1 0 auto;
+    text-align: center;
+  }
+}
+
+.table {
+  margin-top: 0.75em;
+  border-collapse: collapse;
+
+  &,
+  & td {
+    border: 1px solid #aaaaaa;
+  }
+
+  td {
+    width: 1.75em;
+    height: 1.75em;
+
+    &.bareFloor {
+      background-color: #eeeeee;
+    }
+
+    &.paintedFloor {
+      background-color: #ff0000;
+    }
+
+    &.wall {
+      background-color: #000000;
+    }
+  }
+
+  &.buildMode {
+    td.bareFloor,
+    td.paintedFloor {
+      cursor: crosshair;
+      cursor: url("../../assets/images/hammer-solid.png") 24 10, auto;
+    }
+
+    td.wall {
+      cursor: crosshair;
+      cursor: url("../../assets/images/eraser-solid.png") 0 20, auto;
+    }
+  }
+
+  &.paintMode {
+    td.bareFloor {
+      cursor: crosshair;
+      cursor: url("../../assets/images/fill-drip-solid.png") 24 20, auto;
+    }
+
+    td.paintedFloor {
+      cursor: crosshair;
+      cursor: url("../../assets/images/eraser-solid.png") 0 20, auto;
+    }
+
+    td.wall {
+      cursor: not-allowed;
+    }
+  }
+}
