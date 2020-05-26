@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/blueprint-algo/static/css/main.2f218cad.chunk.css",
-    "main.js": "/blueprint-algo/static/js/main.9e9b3d65.chunk.js",
-    "main.js.map": "/blueprint-algo/static/js/main.9e9b3d65.chunk.js.map",
+    "main.js": "/blueprint-algo/static/js/main.e93be1a1.chunk.js",
+    "main.js.map": "/blueprint-algo/static/js/main.e93be1a1.chunk.js.map",
     "runtime-main.js": "/blueprint-algo/static/js/runtime-main.ae09cc56.js",
     "runtime-main.js.map": "/blueprint-algo/static/js/runtime-main.ae09cc56.js.map",
     "static/css/2.de755d14.chunk.css": "/blueprint-algo/static/css/2.de755d14.chunk.css",
     "static/js/2.639123be.chunk.js": "/blueprint-algo/static/js/2.639123be.chunk.js",
     "static/js/2.639123be.chunk.js.map": "/blueprint-algo/static/js/2.639123be.chunk.js.map",
     "index.html": "/blueprint-algo/index.html",
-    "precache-manifest.88af686109023dcd73fb9a0fc236ac53.js": "/blueprint-algo/precache-manifest.88af686109023dcd73fb9a0fc236ac53.js",
+    "precache-manifest.e2434b3381eac2c009956b21720bc206.js": "/blueprint-algo/precache-manifest.e2434b3381eac2c009956b21720bc206.js",
     "service-worker.js": "/blueprint-algo/service-worker.js",
     "static/css/2.de755d14.chunk.css.map": "/blueprint-algo/static/css/2.de755d14.chunk.css.map",
     "static/css/main.2f218cad.chunk.css.map": "/blueprint-algo/static/css/main.2f218cad.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de755d14.chunk.css",
     "static/js/2.639123be.chunk.js",
     "static/css/main.2f218cad.chunk.css",
-    "static/js/main.9e9b3d65.chunk.js"
+    "static/js/main.e93be1a1.chunk.js"
   ]
 }

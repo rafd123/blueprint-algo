@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7370e3f74edde9dcd32ac00aa363ed1",
+    "revision": "1c1d3998ab93522af8449c2694705bb4",
     "url": "/blueprint-algo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blueprint-algo/static/css/2.de755d14.chunk.css"
   },
   {
-    "revision": "6a2c17dd6602c8331e0d",
+    "revision": "cf1c252343fc97654e50",
     "url": "/blueprint-algo/static/css/main.2f218cad.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blueprint-algo/static/js/2.639123be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a2c17dd6602c8331e0d",
-    "url": "/blueprint-algo/static/js/main.9e9b3d65.chunk.js"
+    "revision": "cf1c252343fc97654e50",
+    "url": "/blueprint-algo/static/js/main.e93be1a1.chunk.js"
   },
   {
     "revision": "41d7c9bf5690be40444e",
